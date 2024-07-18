@@ -53,5 +53,10 @@ public class Calculator {
         // Close the scanner
         scanner.close();
     }
+
+// Method to add two numbers
+    public static double add(double a, double b) {
+        return a + b;
+    }
  
 }
